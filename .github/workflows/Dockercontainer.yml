@@ -7,7 +7,7 @@ on:
 
 env:
   REGISTRY: ghcr.io
-  IMAGE_NAME: droidenn/dockerfill
+  IMAGE_NAME: droidenn/dockerfilll
 
 jobs:
   build-and-push-image:
